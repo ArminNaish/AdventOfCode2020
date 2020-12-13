@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIdCKvRlpC+QHXYOAwRy474OkWYpE6zdFOygRUuldFvDQq6XeLPNClbso4C+7UyEOvsN8F9sE8HghmO00VezgA==",
+  "success": true,
+  "projectFilePath": "/home/armin/RiderProjects/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+  "expectedPackageFiles": [
+    "/home/armin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
