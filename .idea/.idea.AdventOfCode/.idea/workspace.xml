@@ -4,11 +4,16 @@
     <projectFile>AdventOfCode/AdventOfCode.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a9a500-9fc0-4cb3-ae44-8c0cc101dbbc" name="Default Changelist" comment="" />
+    <list default="true" id="16a9a500-9fc0-4cb3-ae44-8c0cc101dbbc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../AdventOfCode.Tests/TestProject1/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -28,6 +33,7 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lKvtvG1OdzTNo5yVCkR3moVGUr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +47,7 @@
     <property name="XThreadsFramesViewSplitterKey" value="0.34848484" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected=".NET Project.AdventOfCode">
+  <component name="RunManager">
     <configuration name="AdventOfCode" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -80,6 +86,9 @@
       <workItem from="1607708956095" duration="3466000" />
       <workItem from="1607769278018" duration="7079000" />
       <workItem from="1607868655227" duration="6415000" />
+      <workItem from="1607877669870" duration="320000" />
+      <workItem from="1608040647768" duration="54000" />
+      <workItem from="1608040768849" duration="14000" />
     </task>
     <servers />
   </component>
