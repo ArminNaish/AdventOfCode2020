@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIdCKvRlpC+QHXYOAwRy474OkWYpE6zdFOygRUuldFvDQq6XeLPNClbso4C+7UyEOvsN8F9sE8HghmO00VezgA==",
+  "dgSpecHash": "hsfPrFRKqyuI5veAnFOW08NaEfo4hdtMOzifEnpoLu0w3slXdtb6Wg7rLu5EagffED6RhvFo8wedjDTyC9x5iw==",
   "success": true,
-  "projectFilePath": "/home/armin/RiderProjects/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+  "projectFilePath": "/home/armin/code/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
   "expectedPackageFiles": [
     "/home/armin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],

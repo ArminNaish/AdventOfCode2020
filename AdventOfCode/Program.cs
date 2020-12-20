@@ -1,14 +1,21 @@
-﻿using System.IO;
+﻿using System.Collections.Generic;
+using System.IO;
 using System.Linq;
-using System.Reflection;
-using static AdventOfCode.Day2;
+using static AdventOfCode.Day3;
 
-// day 2 - password philosophy
-var validPasswords = File
-    .ReadLines("/home/armin/RiderProjects/AdventOfCode/AdventOfCode/day2.txt")
-    .Count(VerifyPassword2);
+// day 3
+var map = await File.ReadAllTextAsync("/home/armin/code/AdventOfCode/AdventOfCode/day3.txt");
 
-System.Console.WriteLine($"How many passwords are valid: {validPasswords}");
+var range = new List<(int, int)> { (1, 1), (3, 1), (5, 1), (7, 1), (1, 2) };
+
+long product = 1;
+foreach (var (right, down) in range)
+{
+    long result = FindRoute(map, right, down).Count(c => c == 'X');
+    product *= result;
+}
+
+System.Console.WriteLine($"How many trees encountered: {product}");
 
 
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/armin/RiderProjects/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+      "projectUniqueName": "/home/armin/code/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
       "projectName": "AdventOfCode",
-      "projectPath": "/home/armin/RiderProjects/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+      "projectPath": "/home/armin/code/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
       "packagesPath": "/home/armin/.nuget/packages/",
-      "outputPath": "/home/armin/RiderProjects/AdventOfCode/AdventOfCode/obj/",
+      "outputPath": "/home/armin/code/AdventOfCode/AdventOfCode/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/armin/.nuget/NuGet/NuGet.Config"
